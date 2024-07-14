@@ -1,0 +1,22 @@
+{
+  "arabic": "العربية",
+  "english": "الانجليزية",
+  "welcome": "مرحبًا بك في CopyCare",
+  "description": "قم بإدارة احتياجات الطباعة والنسخ والمسح الضوئي بكفاءة.",
+  "get_started": "ابدأ بتسجيل الدخول أو إنشاء حساب.",
+  "identity": "الهاتف/اسم المستخدم/البريد الإلكتروني",
+  "username": "اسم المستخدم",
+  "Welcome back! Please login to your account": "مرحبًا بعودتك! يرجى تسجيل الدخول إلى حسابك",
+  "login": "تسجيل الدخول",
+  "register": "تسجيل",
+  "forgot_password": "هل نسيت كلمة السر؟",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirm_password": "تأكيد كلمة المرور",
+  "login_with_google": "تسجيل الدخول باستخدام جوجل",
+  "reset_password": "إعادة تعيين كلمة المرور",
+  "please_input_email": "يرجى إدخال بريدك الإلكتروني!",
+  "please_input_password": "يرجى إدخال كلمة المرور الخاصة بك!",
+  "please_confirm_password": "يرجى تأكيد كلمة المرور الخاصة بك!",
+  "send_reset_link": "إرسال رابط إعادة التعيين"
+}

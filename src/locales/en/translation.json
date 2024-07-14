@@ -1,0 +1,22 @@
+{
+  "arabic": "Arabic",
+  "english": "English",
+  "welcome": "Welcome to CopyCare",
+  "description": "Manage your printing, copying, and scanning needs efficiently.",
+  "get_started": "Get started by logging in or creating an account.",
+  "identity": "Phone/Username/Email",
+  "username": "Username",
+  "Welcome back! Please login to your account": "Welcome back! Please login to your account",
+  "login": "Login",
+  "register": "Register",
+  "forgot_password": "Forgot password?",
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "login_with_google": "Login with Google",
+  "reset_password": "Reset Password",
+  "please_input_email": "Please input your email!",
+  "please_input_password": "Please input your password!",
+  "please_confirm_password": "Please confirm your password!",
+  "send_reset_link": "Send Reset Link"
+}
